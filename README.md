@@ -6,3 +6,4 @@ This project is designed to demonstrate the capabilities of Python in developing
  The primary goal of the project is to build an intuitive tool where users can seamlessly load images, apply various filters, and save the modified outputs. By combining the power of OpenCV's computational efficiency with Tkinter's ease of use, the project delivers a real-time, interactive experience for users exploring image processing techniques.
 
 ![Screenshot 2024-12-09 232556](https://github.com/user-attachments/assets/5192c31e-c217-4e0b-ae76-43988520629e)
+![Screenshot 2024-12-09 232801](https://github.com/user-attachments/assets/c627d460-1d14-483b-861b-e4daef3bfc4c)
